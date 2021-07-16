@@ -24,7 +24,7 @@ You can add this to your savegame at any time, although you will experience some
 
 [h2]Changelog[/h2]
 
-See [url=]Change Notes[/url]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2548834941]Change Notes[/url]
 
 [h2]Source Code[/h2]
 
