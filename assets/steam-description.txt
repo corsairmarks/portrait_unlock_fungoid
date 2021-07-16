@@ -1,0 +1,29 @@
+[h1]Overview[/h1]
+
+Do you love fungoids?  Do you wish the large "mushroom" portrait came in more colors?  You're in luck!  The game has 8 colors plus two different spore colors available, but restricts players to only using 4 colors (with different spore colors - for a total of 8 portraits).  This mod allows you to have more colorful mushrooms for a truly psychedelic experience.
+
+[h1]Changes[/h1]
+
+Enables all variants of the [b]fun11[/b] portraits, now divided into two phenotypes.  The first phenotype has blue spores, the second phenotype has green spores.  The colors are in this order: red, pink, purple, blue, orange, yellow, green, turquoise.  As a bonus: the game had predefined particle effects for blue and green spores.  Previously all portraits were using the blue spore particle effects, and now each phenotype uses the appropriately-colored particle effects.
+
+Also, there was one color of [b]fun08[/b] that was omitted, so that is enabled as well.  All other built-in fungoid portraits already allow for every variant to be selected.
+
+[h2]Compatibility[/h2]
+
+Everything that doesn't change these same portraits.
+
+As a graphics-only mod, yes this is [b]achievement compatible[/b].
+
+[h3]When to Install[/h3]
+
+You can add this to your savegame at any time, although you will experience some leaders with the [b]fun11[/b] portrait group change colors.  This is due to the portraits now being split across multiple phenotypes.  It should be safe to remove at any time, but I'm unsure what would happen to any leaders that were using the second phenotype.  Back up your savegame before trying to remove a mod, even this one.
+
+[h2]Changelog[/h2]
+
+See [url=]Change Notes[/url]
+
+[h2]Source Code[/h2]
+
+Hosted on [url=https://github.com/corsairmarks/portrait_unlock_fungoid]GitHub[/url]
+
+[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]

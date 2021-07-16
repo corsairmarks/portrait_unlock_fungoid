@@ -1,0 +1,107 @@
+portraits = {
+	# added 1: white
+	fun8 = {
+		entity = "portrait_fungoid_08_entity"
+		clothes_selector = "fungoid_normal_clothes_08"
+		hair_selector = "no_texture"
+		greeting_sound = "fungoid_01_greetings" 
+		character_textures = {
+			"gfx/models/portraits/fungoid/fungoid_08_orange.dds"
+			"gfx/models/portraits/fungoid/fungoid_08_red.dds"
+			"gfx/models/portraits/fungoid/fungoid_08_purple.dds"
+			"gfx/models/portraits/fungoid/fungoid_08_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_08_teal.dds"
+			"gfx/models/portraits/fungoid/fungoid_08_white.dds"
+		}
+	}
+
+	# added 4: orange, yellow, green, turquoise
+	fun11_01 = {
+		entity = "portrait_fungoid_11_entity"
+		clothes_selector = "no_texture"
+		hair_selector = "no_texture" 
+		greeting_sound = "fungoid_01_greetings"
+		character_textures = {
+			"gfx/models/portraits/fungoid/fungoid_11_red_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_pink_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_purple_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_blue_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_orange_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_yellow_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_green_blue.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_turquoise_blue.dds"
+		}
+	}
+
+	# moved 4 _green from fun11_01, added 4: orange, yellow, green, turquoise
+	fun11_02 = {
+		entity = "portrait_fungoid_11_green_entity"
+		clothes_selector = "no_texture"
+		hair_selector = "no_texture" 
+		greeting_sound = "fungoid_01_greetings"
+		character_textures = {
+			"gfx/models/portraits/fungoid/fungoid_11_red_green.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_pink_green.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_purple_green.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_blue_green.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_orange_green.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_yellow_green.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_green_green.dds"
+			"gfx/models/portraits/fungoid/fungoid_11_turquoise_green.dds"
+		}
+	}
+}
+
+portrait_groups = {
+	fun11 = {
+		default = fun11_01
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					fun11_01
+					fun11_02
+				}
+			}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					fun11_01
+					fun11_02
+				}
+			}
+		}		
+		
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					fun11_01
+					fun11_02
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				portraits = {
+					fun11_01
+					fun11_02
+				}
+			}
+		}
+			
+		#leader scope 
+		ruler = {
+			add = {
+				portraits = {
+					fun11_01
+					fun11_02
+				}
+			}
+		}
+	}
+}
