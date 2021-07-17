@@ -25,6 +25,7 @@ You can add this to your savegame at any time, although you will experience some
 ## Changelog
 
 * 1.0.0 Initial version
+* 1.0.1 Renamed to "Restored Content: Fungoids" and thumbnail updated
 
 ## Source Code
 
