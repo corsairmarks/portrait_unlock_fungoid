@@ -12,7 +12,7 @@ Also, there was one color of `fun08` that was omitted, so that is enabled as wel
 
 Everything that doesn't change these same portraits.
 
-As a graphics-only mod, yes this is **achievement compatible**.
+Marked as compatible with Stellaris version 3.1.* "Lem" but backwards compatible with version 3.0.* "Dick."  As a graphics-only mod, yes this is **achievement compatible**.
 
 ### Recommended Companion Mods
 
@@ -26,6 +26,7 @@ You can add this to your savegame at any time, although you will experience some
 
 * 1.0.0 Initial version
 * 1.0.1 Renamed to "Restored Content: Fungoids" and thumbnail updated
+* 1.1.0 Flagged as compatible with Stellaris 3.1.* "Lem" - no actual changes
 
 ## Source Code
 
