@@ -4,7 +4,7 @@ tags={
 	"Graphics"
 	"Leaders"
 }
-version="1.2.0"
+version="1.3.0"
 picture="thumbnail.png"
-supported_version="3.2.*"
+supported_version="3.3.*"
 remote_file_id="2548834941"
