@@ -29,7 +29,7 @@ You can add this to your savegame at any time, although you will experience some
 * 1.1.0 Flagged as compatible with Stellaris 3.1 "Lem" - no actual changes
 * 1.2.0 Flagged as compatible with Stellaris 3.2 "Herbert" - no actual changes
 * 1.3.0 Flagged as compatible with Stellaris 3.3 "Libra" - no actual changes
-* 1.3.0 Flagged as compatible with Stellaris 3.4 "Cepheus" - no actual changes
+* 1.4.0 Flagged as compatible with Stellaris 3.4 "Cepheus" - no actual changes
 
 ## Source Code
 
