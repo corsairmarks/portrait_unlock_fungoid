@@ -3,7 +3,7 @@ portraits = {
 	fun8 = {
 		entity = "portrait_fungoid_08_entity"
 		clothes_selector = "fungoid_normal_clothes_08"
-		hair_selector = "no_texture"
+		attachment_selector = "no_texture"
 		greeting_sound = "fungoid_01_greetings" 
 		character_textures = {
 			"gfx/models/portraits/fungoid/fungoid_08_orange.dds"
@@ -19,7 +19,7 @@ portraits = {
 	fun11_01 = {
 		entity = "portrait_fungoid_11_entity"
 		clothes_selector = "no_texture"
-		hair_selector = "no_texture" 
+		attachment_selector = "no_texture" 
 		greeting_sound = "fungoid_01_greetings"
 		character_textures = {
 			"gfx/models/portraits/fungoid/fungoid_11_red_blue.dds"
@@ -37,7 +37,7 @@ portraits = {
 	fun11_02 = {
 		entity = "portrait_fungoid_11_green_entity"
 		clothes_selector = "no_texture"
-		hair_selector = "no_texture" 
+		attachment_selector = "no_texture" 
 		greeting_sound = "fungoid_01_greetings"
 		character_textures = {
 			"gfx/models/portraits/fungoid/fungoid_11_red_green.dds"
