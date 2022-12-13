@@ -12,7 +12,7 @@ Also, there was one color of `fun08` that was omitted, so that is enabled as wel
 
 Everything that doesn't change these same portraits.
 
-Marked as compatible with Stellaris version 3.4 "Cepheus" but backwards compatible with versions 3.3 "Libra," 3.2 "Herbert," 3.1 "Lem," and 3.0 "Dick."  As a graphics-only mod, yes this is **achievement compatible**.
+Marked as compatible with Stellaris version 3.6 "Orion" but backwards compatible with version 3.5 "Fornax."  As a graphics-only mod, yes this is **achievement compatible**.
 
 ### Recommended Companion Mods
 
@@ -30,6 +30,7 @@ You can add this to your savegame at any time, although you will experience some
 * 1.2.0 Flagged as compatible with Stellaris 3.2 "Herbert" - no actual changes
 * 1.3.0 Flagged as compatible with Stellaris 3.3 "Libra" - no actual changes
 * 1.4.0 Flagged as compatible with Stellaris 3.4 "Cepheus" - no actual changes
+* 2.0.0 Update for Stellaris version 3.6 "Orion" (and changes from version 3.5 "Fornax") - `hair` to `attachment`
 
 ## Source Code
 
