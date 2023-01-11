@@ -11,11 +11,11 @@ Everything that doesn't change these same portraits.
 
 Marked as compatible with Stellaris version 3.6 "Orion" but backwards compatible with version 3.5 "Fornax."  As a graphics-only mod, yes this is [b]achievement compatible[/b].
 
-[h3]Recommended Companion Mods[/h3]
-Like graphic fixes for the base game?  Try my mod that enables planetary skies showing the parent planets for habitable moons: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2527918521]Yet Another Planetary Sky Fix[/url] (not achievement compatible, however).
-
 [h3]When to Install[/h3]
 You can add this to your savegame at any time, although you will experience some leaders with the [b]fun11[/b] portrait group change colors.  This is due to the portraits now being split across multiple phenotypes.  It should be safe to remove at any time, but I'm unsure what would happen to any leaders that were using the second phenotype.  Back up your savegame before trying to remove a mod, even this one.
+
+[h3]Recommended Companion Mods[/h3]
+Like graphic fixes for the base game?  Try my mod that enables planetary skies showing the parent planets for habitable moons: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2527918521]Yet Another Planetary Sky Fix[/url] (not achievement compatible, however).
 
 [h2]Changelog[/h2]
 See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2548834941]Change Notes[/url]
