@@ -12,7 +12,7 @@ Also, there was one color of `fun08` that was omitted, so that is enabled as wel
 
 Everything that doesn't change these same portraits.
 
-Marked as compatible with Stellaris version 3.6 "Orion" but backwards compatible with version 3.5 "Fornax."  As a graphics-only mod, yes this is **achievement compatible**.
+Marked as compatible with Stellaris version 3.7 "Canis Minor" but backwards compatible with version 3.5 "Fornax."  As a graphics-only mod, yes this is **achievement compatible**.
 
 ### When to Install
 
@@ -31,6 +31,7 @@ Like graphic fixes for the base game?  Try my mod that enables planetary skies s
 * 1.3.0 Flagged as compatible with Stellaris 3.3 "Libra" - no actual changes
 * 1.4.0 Flagged as compatible with Stellaris 3.4 "Cepheus" - no actual changes
 * 2.0.0 Update for Stellaris version 3.6 "Orion" (and changes from version 3.5 "Fornax") - `hair` to `attachment`
+* 2.1.0 Flagged as compatible with Stellaris 3.7 "Canis Minor" - no actual changes
 
 ## Source Code
 
