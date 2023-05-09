@@ -9,7 +9,7 @@ Also, there was one color of [b]fun08[/b] that was omitted, so that is enabled a
 [h2]Compatibility[/h2]
 Everything that doesn't change these same portraits.
 
-Marked as compatible with Stellaris version 3.7 "Canis Minor" but backwards compatible with version 3.5 "Fornax."  As a graphics-only mod, yes this is [b]achievement compatible[/b].
+Marked as compatible with Stellaris version 3.8 "Gemini" but backwards compatible with versions 3.7 "Canis Minor," 3.6 "Orion," and 3.5 "Fornax."  As a graphics-only mod, yes this is [b]achievement compatible[/b].
 
 [h3]When to Install[/h3]
 You can add this to your savegame at any time, although you will experience some leaders with the [b]fun11[/b] portrait group change colors.  This is due to the portraits now being split across multiple phenotypes.  It should be safe to remove at any time, but I'm unsure what would happen to any leaders that were using the second phenotype.  Back up your savegame before trying to remove a mod, even this one.
